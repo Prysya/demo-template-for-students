@@ -1,4 +1,10 @@
 @import './vendors/normalize.css';
-
-
-
+@import './base.css';
+@import './blocks/container.css';
+@import './blocks/header.css';
+@import './blocks/menu.css';
+@import './blocks/page-section.css';
+@import './blocks/single-post.css';
+@import './blocks/posts.css';
+@import './blocks/main.css';
+@import './blocks/footer.css';
