@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html { 
+  box-sizing: border-box; 
+}
+*, *::before, *::after { 
+  box-sizing: inherit; 
+}
+
+img { 
+  max-width: 100%;
+  height: auto;
+}
+
+a { 
+  text-decoration: none 
+}
+
+/* .centered-line {
+  position: relative;
+}
+.centered-line:before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 1px;
+  height: 100%;
+  background-color: red;
+} */
