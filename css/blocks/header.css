@@ -1,0 +1,15 @@
+.header {
+  background: black;
+  color: white;
+}
+
+.header__container {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+}
+
+.header__search {
+  justify-self: end;
+}
+
+

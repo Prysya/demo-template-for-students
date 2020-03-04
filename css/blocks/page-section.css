@@ -1,0 +1,19 @@
+.page-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.page-section__posts {
+  width: 770px;
+}
+
+.page-section__sidebar {
+  width: 270px;
+}
+
+@media (min-width: 1200px) {
+  .page-section {
+    display: flex;
+    justify-content: space-between;
+  }
+}
